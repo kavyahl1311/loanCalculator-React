@@ -16,20 +16,20 @@ and 24 months.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## Prerequisites
-### `Below are the prequisites required to run this application:'
+### `Below are the prequisites required to run this application:`
 
-     1.Node - You can install the node using [NODE](https://nodejs.org/en/).<br>
-     2.NPM - You can get the latest npm using [NPM](https://www.npmjs.com/get-npm).<br>
+     1.Node - You can install the node using [NODE](https://nodejs.org/en/).
+     2.NPM - You can get the latest npm using [NPM](https://www.npmjs.com/get-npm).
      3.GIT - Git is required to clone this particular project and to use it in your local machine. You can install git using 
-     [GIT](https://github.com/).<br>
+     [GIT](https://github.com/).
 ### `Frameworks and libraries required to run this applications are:`
   
-     1.Install React and react dom.<br>
-             use these commands to install react and react-dom - npm install react --save , npm install react-dom --save.<br>
-     2.Install axios.<br>
-             use the command npm install axios --save to install it.<br>
-     3.Install @material-ui/core & @material-ui/lab.<br>
-             use npm install @material-ui/core and npm install @material-ui/lab to get the @material-ui library.<br>
+     1.Install React and react dom.
+             use these commands to install react and react-dom - npm install react --save , npm install react-dom --save.
+     2.Install axios.
+             use the command npm install axios --save to install it.
+     3.Install @material-ui/core & @material-ui/lab.
+             use npm install @material-ui/core and npm install @material-ui/lab to get the @material-ui library.
         
 Once all the installation completed. Run npm start in the project directory, once the npm start finishes open the 
 [http://localhost:3000](http://localhost:3000) to view the application in the browser.
