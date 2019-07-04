@@ -16,12 +16,14 @@ and 24 months.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## Prerequisites
-### 'Below are the prequisites required to run this application:'<br>
+### `Below are the prequisites required to run this application:'
+
      1.Node - You can install the node using [NODE](https://nodejs.org/en/).<br>
      2.NPM - You can get the latest npm using [NPM](https://www.npmjs.com/get-npm).<br>
      3.GIT - Git is required to clone this particular project and to use it in your local machine. You can install git using 
      [GIT](https://github.com/).<br>
-### 'Frameworks and libraries required to run this applications are :'<br>
+### `Frameworks and libraries required to run this applications are:`
+  
      1.Install React and react dom.<br>
              use these commands to install react and react-dom - npm install react --save , npm install react-dom --save.<br>
      2.Install axios.<br>
