@@ -15,6 +15,8 @@ and 24 months.
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+https://ftl-frontend-test.herokuapp.com/interest?amount=&lt;amount&gt;&amp;numMonths=&lt;numMonths&gt, is the API used in this project to calculate the monthly payment amount and the interest rate.
+
 ## Prerequisites
 ### `Below are the prequisites required to run this application:`
 
@@ -22,6 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
      2.NPM - You can get the latest npm using [NPM](https://www.npmjs.com/get-npm).
      3.GIT - Git is required to clone this particular project and to use it in your local machine. You can install git using 
      [GIT](https://github.com/).
+
 ### `Frameworks and libraries required to run this applications are:`
   
      1.Install React and react dom.
@@ -61,6 +64,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 You can learn more about deployment in the [Deployment](https://facebook.github.io/create-react-app/docs/deployment).
 I have done the deployment using surge, link - [Loan Calculator](http://fullThrottle-labs-test.surge.sh).
+
+Screenshot of the loan calculator app :![Loan Calculator](LoanCalculator.PNG)
 
 ## Author
 Kavya H L : kavyahl1234@gmail.com
